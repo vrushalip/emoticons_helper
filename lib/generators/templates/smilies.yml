@@ -1,30 +1,316 @@
 skeptical:
-  [">:\\", ">:/", ":-/", ":-.", ":/", ":\\", "=/", "=\\", ":L", "=L", ":S", ">.<"]
+  - ">:\\"
+  - ">:/"
+  - ":-/"
+  - ":-."
+  - ":/"
+  - ":\\"
+  - "=/"
+  - "=\\"
+  - ":L"
+  - "=L"
+  - ":S"
+  - ">.<"
 evil:
-  [">:)", ">;)", ">:-)"]
+  - ">:)"
+  - ">;)"
+  - ">:-)"
 smile:
-  [":-)", ":)", ":]", ":3", ":c)", ":>", "=]", "8)", "=)", ":^)"]
+  - ":-)"
+  - ":)"
+  - ":]"
+  - ":3"
+  - ":c)"
+  - ":>"
+  - "=]"
+  - "8)"
+  - "=)"
+  - ":^)"
+  - ":=)"
 laugh:
-  [":D", "8-D", "8D", "x-D", "xD", "X-D", "XD"]
+  - ":D"
+  - "8-D"
+  - "8D"
+  - "x-D"
+  - "xD"
+  - "X-D"
+  - "XD"
+  - ":=D"
+  - ":-D"
+  - ":d"
+  - ":=d"
+  - ":-d"
 tongue:
-  [":p", ">:P", ":-P", ":P", "X-P", "x-p", "xp", "XP", ":-p", ":p", "=p", ":-b", ":b"]
-smart:
-  ["B)"]
+  - ":p"
+  - ">:P"
+  - ":-P"
+  - ":P"
+  - "X-P"
+  - "x-p"
+  - "xp"
+  - "XP"
+  - ":-p"
+  - ":p"
+  - "=p"
+  - ":-b"
+  - ":b"
+  - ":=P"
 angry:
-  ["X(", ":-||", ":@"]
+  - "X("
+  - ":-||"
+  - ":@"
+  - "(angry)"
 sad:
-  [":("]
+  - ":("
+  - ":=("
+  - ":-("
 wink:
-  [";)"]
-louds:
-  [":-D", "=-D", "=D", "=-3", "=3", "B^D"]
+  - ;)
+  - ;-)
+  - ;=)
+bigsmile:
+  - ":-D"
+  - "=-D"
+  - "=D"
+  - "=-3"
+  - "=3"
+  - "B^D"
 confused:
-  ["%-)", "%)"]
+  - "%-)"
+  - "%)"
 sleeping:
-  ["(-_-)zzz"]
+  -"(-_-)zzz"
 like:
-  ["(y)", "(yes)", "(like)"]
+  - "(y)"
+  - "(yes)"
+  - "(like)"
 dislike:
-  ["(n)", "(no)", "(dislike)"]
+  - "(n)"
+  - "(no)"
+  - "(dislike)"
 rofl:
-  ["(rofl)"]
+  - "(rofl)"
+hungover:
+  - "(morningafter)"
+  - "(hungover)"
+clapping:
+  - "(clap)"
+shock:
+  - (shock)
+shivering:
+  - (shivering)
+  - (cold)
+  - (freezing)
+listening:
+  - (listening)
+headphones:
+  - (headphones)
+cool:
+  - "8=)"
+  - "8-)"
+  - "B=)"
+  - "B-)"
+  - (cool)
+  - "B)"
+surprised:
+  - ":o"
+  - ":=o"
+  - ":-o"
+  - ":O"
+  - ":=O"
+  - ":-O"
+crying:
+  - ";("
+  - ";-("
+  - ";=("
+lalala:
+  - (lalala)
+sweating:
+  - (sweat)
+  - "(:|"
+speechless:
+  - ":|"
+  - ":=|"
+  - ":-|"
+kiss:
+  - ":*"
+  - ":=*"
+  - ":-*"
+fingercrossed:
+  - (yn)
+blush:
+  - (blush)
+  - ":$"
+  - ":-$"
+  - ":=$"
+  - ':">'
+wondering:
+  - ":^)"
+sleepy:
+  - "|-)"
+  - "I-)"
+  - "I=)"
+  - (snooze)
+dull:
+  - "|("
+  - "|-("
+  - "|=("
+inlove:
+  - (inlove)
+evilgrin:
+  - "]:)"
+  -  ">:)"
+  - (grin)
+yawn:
+  - (yawn)
+puke:
+  - (puke)
+  - ":& "
+  - ":-&"
+  - ":=&"
+doh:
+  - (doh)
+itwasntme:
+  - (wasntme)
+party:
+  - (party)
+worried:
+  - ":S"
+  - ":-S"
+  - ":=S"
+  - ":s"
+  - ":-s"
+  - ":=s"
+mmm:
+  - (mm)
+nerd:
+  - "8-|"
+  - "B-|"
+  - "8|"
+  - "B|"
+  - "8=|"
+  - "B=|"
+  - (nerd)
+lipssealed:
+  - ":x"
+  - ":-x: X"
+  - ":-X"
+  - ":#"
+  - ":-#"
+  - ":=x"
+  - ":=X"
+  - ":=#"
+hi:
+  - (hi)
+  - (wave)
+devil:
+  - (devil)
+angel:
+  - (angel)
+envy:
+  - (envy)
+wait:
+  - (wait)
+makeup:
+  - (makeup)
+  - (kate)
+movember:
+  - (moustache)
+giggle:
+  - (giggle)
+  - (chuckle)
+thinking:
+  - (think)
+  - ":?"
+  - ":-?"
+  - ":=?"
+whew:
+  - (whew)
+highfive:
+  - (highfive)
+happy:
+  - (happy)
+smirking:
+  - (smirk)
+nod:
+  - (nod)
+shake:
+  - (shake)
+waiting:
+  - (waiting)
+emo:
+  - (emo)
+tmi:
+  - (tmi)
+bandhit:
+  - (bandhit)
+rock:
+  - (rock)
+headbang:
+  - (headbang)
+  - (banghead)
+punch:
+  - (punch)
+talking:
+  - (talking)
+idea:
+  - (idea)
+talktothehand:
+  - (talktothehand)
+call:
+  - (call)
+cryingwithlaughing:
+  - (cwl)
+  - (cryingwithlaughter)
+wtf:
+  - (wtf)
+donttalk:
+  - (donttalk)
+nazar:
+  - (nazar)
+slap:
+  - (slap)
+  - (thappad)
+whistle:
+  - (whistle)
+  - (seeti)
+man:
+  - (man)
+woman:
+  - (woman)
+drunk:
+  - (drunk)
+smoking:
+  - (smoking)
+gottarun:
+  - (gottarun)
+stop:
+  - (stop)
+bug:
+  - (bug)
+toivo:
+  - (toivo)
+poolparty:
+  - (poolparty)
+snail:
+  - (snail)
+goodluck:
+  - (goodluck)
+island:
+  - (island)
+umbrella:
+  - (umbrella)
+rainbow:
+  - (rainbow)
+canyoutalk:
+  - (canyoutalk)
+camera:
+  - (camera)
+plane:
+  - (plane)
+car:
+  - (car)
+computer:
+  - (computer)
+games:
+  - (games)

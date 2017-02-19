@@ -24,9 +24,10 @@ module SmileyHelpers
 
   def self.replace_smilies(str, animate=false)
     str = str.to_str
+    animate = true if str.match(/\([a-z]*?\)/).present?
     str = str.gsub(self.regex) do
       if animate
-        %(#{$1}<span class="smilies animate#{self.smilies[$2]}" title="#{$2}">&nbsp;</span>#{$3})
+        %(#{$1}<img class="smilies" title="#{$2}" src="/assets/smilies/animated/#{self.smilies[$2]}.gif"/>#{$3})
       else
         %(#{$1}<span class="smilies #{self.smilies[$2]}" title="#{$2}">&nbsp;</span>#{$3})
       end
