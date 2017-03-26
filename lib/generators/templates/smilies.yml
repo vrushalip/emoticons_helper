@@ -79,7 +79,7 @@ confused:
   - "%-)"
   - "%)"
 sleeping:
-  -"(-_-)zzz"
+  - "(-_-)zzz"
 like:
   - "(y)"
   - "(yes)"
@@ -314,3 +314,5 @@ computer:
   - (computer)
 games:
   - (games)
+facepalm:
+  - (facepalm)
